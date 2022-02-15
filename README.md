@@ -9,7 +9,7 @@ If you want to contact me, please leave me a message!
 <a href="https://github.com/omarzain27" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="moraz695@gmail.com" target="_blank">
+<a href="mailto:ismoraz695@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/omars__27/" target="_blank">
