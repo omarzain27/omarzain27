@@ -28,7 +28,7 @@ If you want to contact me, please leave me a message!
 
 - 🔭 I’m currently Try to **CONTRIBUTE** in open source.
 - 🌱 I'm currently learning Deep Learning, Computer Vision.
-- ⚡ Fun fact: love Competitve programming and Football.
+- ⚡ Fun fact: I love Competitve programming and Football.
 
 
 
